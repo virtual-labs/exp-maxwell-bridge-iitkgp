@@ -1,1 +1,1 @@
-## Experiment name
+# Measurement of Self Inductance by Maxwell Bridge  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="images/iitkgp.png" width="3%" />
