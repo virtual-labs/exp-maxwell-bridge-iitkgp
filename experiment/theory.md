@@ -35,3 +35,4 @@ Equating both the real and imaginary parts in eq.`(1)` and seperating them,
  </p>
 
 Resistors `R_3` and `R_4` are normally a selection of values from 10, 100, 1000 and 10,000 `Ω`. `r_2` is a decade resistance box.
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
