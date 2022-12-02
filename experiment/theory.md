@@ -13,26 +13,32 @@ To determine the self-inductance of an unknown coil.
 </p>
 
 Let,
-`L_1`= Unknown self Inductance of resistance `R_1`,
+L<sub>1</sub>= Unknown self Inductance of resistance R<sub>1</sub>,
 
-`L_2`= variable inductance of fixed resistance `r_2`,
+L<sub>2</sub>= variable inductance of fixed resistance r<sub>2</sub>,
 
-`R_2`= variable resistance connected in series with inductor `L_2`,
+R<sub>2</sub>= variable resistance connected in series with inductor L<sub>2</sub>,
 
-`R_3`,`R_4`= known non inductive resistances,
+R<sub>3</sub>,R<sub>4</sub>= known non inductive resistances,
 
 At balance condition, 
 <p align="center">
-`(R_1 +jomegaL_1)*R_4 = (R_2 + r_2 + jomegaL_2)*R_3` ...(1)
+  
+$$ (R_1 +j \omega L_1)*R_4 = (R_2 + r_2 + j \omega L_2)*R_3 ...(1) $$
+  
 <p>
-Equating both the real and imaginary parts in eq.`(1)` and seperating them,
+Equating both the real and imaginary parts in eq.(1) and seperating them,
 
 <p align="center">
-`L_1 =(R_3/R_4)L_2` ...(2)
+  
+$$ L_1 =(\frac{R_3}{R_4})L_2 ...(2) $$
  </p>
 <p align="center">
-`R_1 = (R_3/R_4)*(R_2+r_2)` ...(3)
+  
+$$ R_1 = (\frac{R_3}{R_4})*(R_2+r_2) ...(3) $$
+  
  </p>
 
-Resistors `R_3` and `R_4` are normally a selection of values from 10, 100, 1000 and 10,000 `Ω`. `r_2` is a decade resistance box.
+Resistors R<sub>3</sub> and R<sub>4</sub> are normally a selection of values from 10, 100, 1000 and 10,000 `Ω`. r<sub>2</sub> is a decade resistance box.
+
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
