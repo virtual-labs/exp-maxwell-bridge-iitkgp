@@ -19,7 +19,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "A galvanometer with a full scale current of 10 mA has a resistance of 1000 Ã�Â©. The multiplying power (the ratio of measured current to galvanometer current) of 100 Ã�Â© shunt with this galvanometer is<br/> ",
+      "question": "A galvanometer with a full scale current of 10 mA has a resistance of 1000Ω. The multiplying power (the ratio of measured current to galvanometer current) of 100 Ã�Â© shunt with this galvanometer is<br/> ",
       "answers": {
         "a": "110",
         "b": "100",
@@ -36,7 +36,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "A Maxwell’s inductive bridge shown in figure below is used to measure an unknown inductance in comparison with known inductance. The values at balance R<sub>2</sub>= 590Ω, R<sub>4</sub>=60Ω, R<sub>3</sub>= 100Ω, r<sub>2</sub>=10Ω and L<sub>2</sub>= 6mH. Calculate the values of R<sub>1</sub> and L<sub>1</sub> . Calculate also the Q-factor of the coil if frequency is 1000Hz.<br/><p style=\"text-align:center\"><img src=\"image/quiz3.jpg\" style=\"width:460px;height:320px\"></p>",
+      "question": "A Maxwell’s inductive bridge shown in figure below is used to measure an unknown inductance in comparison with known inductance. The values at balance R<sub>2</sub>= 590Ω, R<sub>4</sub>=60Ω, R<sub>3</sub>= 100Ω, r<sub>2</sub>=10Ω and L<sub>2</sub>= 6mH. Calculate the values of R<sub>1</sub> and L<sub>1</sub> . Calculate also the Q-factor of the coil if frequency is 1000Hz.<br/><p style=\"text-align:center\"><img src=\"images/quiz3.jpg\" style=\"width:460px;height:320px\"></p>",
       "answers": {
         "a": "L<sub>1</sub>=8mH,R<sub>1</sub>=10000Ω and Q-factor=0.005",
         "b": "L<sub>1</sub>=10mH,R<sub>1</sub>=10Ω and Q-factor=6.2832" ,
