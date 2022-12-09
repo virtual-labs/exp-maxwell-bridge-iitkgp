@@ -39,6 +39,6 @@ $$ R_1 = (\frac{R_3}{R_4})*(R_2+r_2) ...(3) $$
   
  </p>
 
-Resistors R<sub>3</sub> and R<sub>4</sub> are normally a selection of values from 10, 100, 1000 and 10,000 `Ω`. r<sub>2</sub> is a decade resistance box.
+Resistors R<sub>3</sub> and R<sub>4</sub> are normally a selection of values from 10, 100, 1000 and 10,000Ω. r<sub>2</sub> is a decade resistance box.
 
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
